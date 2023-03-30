@@ -1,23 +1,16 @@
-import logo from './logo.svg';
-import './App.css';
+import "./App.css";
+import Three01 from "./components/Three01";
+import Three02 from "./components/Three02";
+import Three03 from "./components/Three03";
+import Three04 from "./components/Three04";
 
 function App() {
   return (
     <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+      <Three01 />
+      <Three02 />
+      <Three03 />
+      <Three04 />
     </div>
   );
 }

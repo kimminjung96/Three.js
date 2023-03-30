@@ -1,0 +1,11 @@
+Model Information:
+* title:	Rooster
+* source:	https://sketchfab.com/3d-models/rooster-cf76654347ab45a883d8906f1bd15c50
+* author:	VitSh (https://sketchfab.com/VitSh)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Rooster" (https://sketchfab.com/3d-models/rooster-cf76654347ab45a883d8906f1bd15c50) by VitSh (https://sketchfab.com/VitSh) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
